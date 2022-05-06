@@ -1,0 +1,31 @@
+1.Create “Hello World” application. That will display “Hello World” in the middle of the  
+screen in the emulator. Also display “Hello World” in the middle of the screen in the  
+Android Phone.  
+2. Create an application with three buttons (increment, decrement and reset) and a textView  
+aligned vertically. On clicking, increment/decrement button, the value of the textview  
+should increment/decrement by 1while selecting reset button, the value of textview  
+should become zero. 
+3. Create an application with login module. (Check username and password).  
+4. Create spinner with strings taken from resource folder (res >> value folder) and on  
+changing the spinner value, Image will change.  
+5. Create a menu with 5 options and selected option should appear in text box.  
+6. Create a list of all courses in your college and on selecting a particular course teacher-in￾charge of that course should appear at the bottom of the screen.  
+7. Create an application with three option buttons, on selecting a button colour of the screen  
+will change.  
+8. Create an application to display various activity life cycle and fragment life cycle  
+methods.  
+9. Create an application with 2 fragments, one to set the background and other to set the  
+fore-color of the text. 
+10. Create an application with an activity having EditText and a button (with name “Send”).  
+On clicking Send button, make use of implicit intent that uses a Send Action and let user  
+select app from app chooser and navigate to that application. 
+11. Create a Login application. On successful login, use explicit intent to second activity  
+displaying welcome message (Welcome Username) to the user and a logout button. When  
+user presses logout button, a dialog box with a message (“Are you sure you want to exit?”)  
+and two buttons (“Yes” and “No”) should appear to confirm logout. On “Yes” button click,  
+go to login activity and on “No”, stay on the same activity. 
+12. Create an application for Broadcast sender and receivers. 
+13. Create an application to create notification having icon, text and title.
+14.Create an application to create services. 
+15. Create an application to Create, Insert, update, Delete and retrieve operation on the  
+database.
